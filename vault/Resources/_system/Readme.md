@@ -1,0 +1,1 @@
+This folder structure is intended for use with Obsidian. To use it effectively, open Obsidian's settings and configure the appropriate paths: specify the relevant subfolders (e.g., for templates) under **Files & Links** and **Templates** in the settings menu.
