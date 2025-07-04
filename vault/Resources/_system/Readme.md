@@ -1,13 +1,29 @@
-# Areas (Archive)
+# _system
 
-## English
-This folder stores **retired “Areas of Responsibility”**—ongoing parts of life or work that you no longer actively maintain but still want to keep on record.  
-Put here any notes, dashboards, or resources from areas you once managed (e.g., a past job role, a hobby you stopped pursuing, an old apartment) so they’re out of your way yet easy to reference later.
+## English  
+The `_system` folder exists to support **Obsidian’s internal organization**.  
+It contains two subfolders:  
+- `files` – for storing attachments and embedded media  
+- `templates` – for your custom note templates  
 
-## Ελληνικά
-Αυτός ο φάκελος περιέχει **παλαιότερες «Περιοχές Ευθύνης»** που δεν διαχειρίζεστε πλέον, αλλά θέλετε να κρατήσετε ως αρχείο.  
-Αποθηκεύστε εδώ σημειώσεις, πίνακες και υλικό από τομείς που κάποτε αναλάβατε (π.χ. προηγούμενη θέση εργασίας, χόμπι που σταματήσατε, παλιό σπίτι), ώστε να μην σας αποσπούν αλλά να είναι διαθέσιμα για μελλοντική αναφορά.
+You can set these folders in Obsidian’s **Settings > Files & Links** and **Settings > Templates** so they’re used properly by the app.
 
-## Deutsch
-Dieser Ordner bewahrt **„Bereiche“ auf, die nicht mehr aktiv betreut werden**, aber aus Dokumentationsgründen erhalten bleiben sollen.  
-Lege hier Notizen, Übersichten und Ressourcen zu früheren Verantwortungsbereichen ab (z. B. ehemalige Jobrolle, aufgegebenes Hobby, frühere Wohnung), damit sie dich nicht stören, aber bei Bedarf schnell auffindbar sind.
+---
+
+## Ελληνικά  
+Ο φάκελος `_system` υπάρχει για να υποστηρίζει την **εσωτερική οργάνωση του Obsidian**.  
+Περιέχει δύο υποφακέλους:  
+- `files` – για την αποθήκευση συνημμένων και ενσωματωμένων αρχείων  
+- `templates` – για τα δικά σου πρότυπα σημειώσεων  
+
+Μπορείς να ορίσεις αυτούς τους φακέλους στις **Ρυθμίσεις > Αρχεία & Σύνδεσμοι** και **Ρυθμίσεις > Πρότυπα** του Obsidian ώστε να λειτουργούν σωστά.
+
+---
+
+## Deutsch  
+Der Ordner `_system` dient der **internen Organisation von Obsidian**.  
+Er enthält zwei Unterordner:  
+- `files` – zum Speichern von Anhängen und eingebetteten Dateien  
+- `templates` – für deine eigenen Notizvorlagen  
+
+Du solltest diese Ordner in den **Obsidian-Einstellungen unter Dateien & Links** sowie **Vorlagen** festlegen, damit sie korrekt genutzt werden.
