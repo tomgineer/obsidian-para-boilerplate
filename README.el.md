@@ -1,6 +1,6 @@
 # Obsidian PARA Vault Boilerplate (Greek)
 
-**Available languages:** [English](README.md) | [Ελληνικά](README.el.md) | [Deutsch](README.de.md)
+**Available languages:** [English](README.md) | Ελληνικά | [Deutsch](README.de.md)
 
 Αυτή είναι μια έτοιμη δομή φακέλων για το [Obsidian](https://obsidian.md), βασισμένη στη μέθοδο PARA του Tiago Forte. Σκοπός της είναι να βοηθήσει καθημερινούς ανθρώπους να οργανώσουν την ψηφιακή τους ζωή, να διαχειριστούν προσωπικά έργα και να διατηρήσουν τάξη στις σκέψεις και τα δεδομένα τους. Είναι πρακτική, απλή και επεκτάσιμη.
 

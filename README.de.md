@@ -1,6 +1,6 @@
 # Obsidian PARA Vault Boilerplate (German)
 
-**Available languages:** [English](README.md) | [Ελληνικά](README.el.md) | [Deutsch](README.de.md)
+**Available languages:** [English](README.md) | [Ελληνικά](README.el.md) | Deutsch
 
 Dies ist eine vorgefertigte Ordnerstruktur für [Obsidian](https://obsidian.md), basierend auf der PARA-Methode von Tiago Forte. Sie hilft dabei, die digitale Welt besser zu organisieren, persönliche Projekte zu verwalten und den Überblick zu behalten. Sie ist praktisch, einfach und flexibel erweiterbar.
 
