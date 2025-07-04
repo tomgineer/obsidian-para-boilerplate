@@ -1,2 +1,5 @@
 # Local development files and personal references
 .local/
+
+# Obsidian Files
+vault/.obsidian
